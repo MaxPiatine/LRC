@@ -1,0 +1,40 @@
+Resistor 
+10 ohm = 10.2 ohm
+33 ohm = 34.3 ohm
+100 ohm = 99.8
+
+Capacitor
+100 microF = 97.1 microF
+330 microF = 323.8 microF
+
+Inductor Resistance
+5.6 ohm
+
+Inductor Inductance
+8.2 mH
+
+Inductor Inductance with iron core
+27.1 mH
+
+E1: 10 ohm, 100 microF
+files 17,18,19
+
+E1 Further Investigation: w/o iron core at 100 microF
+files 20,21,22
+
+E1 Further Investigation: with iron core at 100 microF
+files 23,24,26
+
+E1 Further Investigation: with iron core at 330 microF
+files 27,28,29
+
+E1 Further Investigation: w/o iron core at 330 microF
+files 30,31,32
+
+E2: without core
+100 Hz file 11
+300Hz file 12
+178 Hz (res) file 13
+
+E2: with core
+file 14
